@@ -1,0 +1,15 @@
+C:\geekbrains\homework C#\homework3\homework23\bin\Debug\net6.0\homework23.exe
+C:\geekbrains\homework C#\homework3\homework23\bin\Debug\net6.0\homework23.deps.json
+C:\geekbrains\homework C#\homework3\homework23\bin\Debug\net6.0\homework23.runtimeconfig.json
+C:\geekbrains\homework C#\homework3\homework23\bin\Debug\net6.0\homework23.dll
+C:\geekbrains\homework C#\homework3\homework23\bin\Debug\net6.0\homework23.pdb
+C:\geekbrains\homework C#\homework3\homework23\obj\Debug\net6.0\homework23.csproj.AssemblyReference.cache
+C:\geekbrains\homework C#\homework3\homework23\obj\Debug\net6.0\homework23.GeneratedMSBuildEditorConfig.editorconfig
+C:\geekbrains\homework C#\homework3\homework23\obj\Debug\net6.0\homework23.AssemblyInfoInputs.cache
+C:\geekbrains\homework C#\homework3\homework23\obj\Debug\net6.0\homework23.AssemblyInfo.cs
+C:\geekbrains\homework C#\homework3\homework23\obj\Debug\net6.0\homework23.csproj.CoreCompileInputs.cache
+C:\geekbrains\homework C#\homework3\homework23\obj\Debug\net6.0\homework23.dll
+C:\geekbrains\homework C#\homework3\homework23\obj\Debug\net6.0\refint\homework23.dll
+C:\geekbrains\homework C#\homework3\homework23\obj\Debug\net6.0\homework23.pdb
+C:\geekbrains\homework C#\homework3\homework23\obj\Debug\net6.0\homework23.genruntimeconfig.cache
+C:\geekbrains\homework C#\homework3\homework23\obj\Debug\net6.0\ref\homework23.dll
